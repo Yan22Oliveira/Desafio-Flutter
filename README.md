@@ -1,16 +1,19 @@
-# desafio_flutter
+# Desafio Flutter
 
-A new Flutter application.
+Widgets Flutter
 
-## Getting Started
+## Instruções
 
-This project is a starting point for a Flutter application.
+Monte uma árvore de widgets com o seguinte padrão:
+Widget Principal
+    Barra de Títulos = "Atividade Widgets"
+    Rótulo: "Digite o seu signo:" - Input:
+    Área de Texto
+    Botão: "Verificar"
 
-A few resources to get you started if this is your first Flutter project:
+Somente interface nessa atividade. 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Desafio: Realize a interação entre seus Widgets, quando o usuário digitar um signo você verifica e informa o período de seu nascimento.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Projeto no GitHub](https://github.com/Yan22Oliveira/Desafio-Flutter)
+
